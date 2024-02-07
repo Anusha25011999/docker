@@ -1,4 +1,4 @@
-FROM CENTOS
+FROM centos
 LABEL name Anusha
 #RUN apt  update -y
 RUN cd /etc/yum.repos.d/
